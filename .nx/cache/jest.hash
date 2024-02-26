@@ -1,0 +1,23 @@
+{
+  "14833866115028296148": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/blog-application"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/blog-application"
+      ]
+    }
+  }
+}
