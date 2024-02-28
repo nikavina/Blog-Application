@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run services:build:development",
+    "startTime": "2024-02-28T07:45:19.695Z",
+    "endTime": "2024-02-28T07:45:19.759Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "services:build",
+      "target": "build",
+      "projectName": "services",
+      "hash": "11120461638468573104",
+      "startTime": "2024-02-28T07:45:19.699Z",
+      "endTime": "2024-02-28T07:45:19.746Z",
+      "params": "",
+      "cacheStatus": "local-cache-hit",
+      "status": 0
+    }
+  ]
+}
